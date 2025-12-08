@@ -1,0 +1,108 @@
+груд. 08, 2025 6:43:44 ПП Main main
+INFO: Application started.
+груд. 08, 2025 6:43:46 ПП controller.ShapeController run
+INFO: User selected option: 10
+груд. 08, 2025 6:43:46 ПП controller.ShapeController runAutoDemo
+INFO: Demo run started.
+груд. 08, 2025 6:43:48 ПП controller.ShapeController runAutoDemo
+INFO: Demo run finished.
+груд. 08, 2025 6:44:27 ПП controller.ShapeController run
+INFO: User selected option: 2
+груд. 08, 2025 6:44:27 ПП controller.ShapeController run
+INFO: New shapes generated.
+груд. 08, 2025 6:44:28 ПП controller.ShapeController run
+INFO: User selected option: 1
+груд. 08, 2025 6:44:34 ПП controller.ShapeController run
+INFO: User selected option: 10\\
+груд. 08, 2025 6:44:34 ПП controller.ShapeController run
+WARNING: Invalid menu option selected: 10\\
+груд. 08, 2025 6:44:38 ПП controller.ShapeController run
+INFO: User selected option: 10
+груд. 08, 2025 6:44:38 ПП controller.ShapeController runAutoDemo
+INFO: Demo run started.
+груд. 08, 2025 6:44:39 ПП controller.ShapeController runAutoDemo
+INFO: Demo run finished.
+груд. 08, 2025 6:53:04 ПП Main main
+INFO: Application started.
+груд. 08, 2025 6:53:13 ПП controller.ShapeController run
+INFO: User selected option: 11
+груд. 08, 2025 6:53:13 ПП controller.ShapeController changeLanguage
+INFO: Language switched. English: false
+груд. 08, 2025 6:54:13 ПП Main main
+INFO: Application started.
+груд. 08, 2025 6:54:30 ПП Main main
+INFO: Application started.
+груд. 08, 2025 6:54:33 ПП controller.ShapeController run
+INFO: User selected option: 11
+груд. 08, 2025 6:54:33 ПП controller.ShapeController changeLanguage
+INFO: Language switched. English: false
+груд. 08, 2025 6:55:36 ПП Main main
+INFO: Application started.
+груд. 08, 2025 6:55:40 ПП controller.ShapeController run
+INFO: User selected option: 10
+груд. 08, 2025 6:55:40 ПП controller.ShapeController runAutoDemo
+INFO: Demo run started.
+груд. 08, 2025 6:55:41 ПП controller.ShapeController runAutoDemo
+INFO: Demo run finished.
+груд. 08, 2025 6:55:43 ПП controller.ShapeController run
+INFO: User selected option: 11
+груд. 08, 2025 6:55:43 ПП controller.ShapeController changeLanguage
+INFO: Language switched. English: false
+груд. 08, 2025 6:57:42 ПП Main main
+INFO: Application started.
+груд. 08, 2025 6:57:46 ПП controller.ShapeController run
+INFO: User selected option: 10
+груд. 08, 2025 6:57:46 ПП controller.ShapeController runAutoDemo
+INFO: Demo run started.
+груд. 08, 2025 6:57:48 ПП controller.ShapeController runAutoDemo
+INFO: Demo run finished.
+груд. 08, 2025 6:57:51 ПП controller.ShapeController run
+INFO: User selected option: 11
+груд. 08, 2025 6:57:51 ПП controller.ShapeController changeLanguage
+INFO: Language switched. English: false
+груд. 08, 2025 7:04:05 ПП Main main
+INFO: Application started.
+груд. 08, 2025 7:04:08 ПП controller.ShapeController run
+INFO: User selected option: 11
+груд. 08, 2025 7:04:08 ПП controller.ShapeController changeLanguage
+INFO: Language switched. English: false
+груд. 08, 2025 7:13:21 ПП Main main
+INFO: Application started.
+груд. 08, 2025 7:13:27 ПП controller.ShapeController run
+INFO: User selected option: 11
+груд. 08, 2025 7:13:27 ПП controller.ShapeController changeLanguage
+INFO: Language switched. English: false
+груд. 08, 2025 7:14:58 ПП Main main
+INFO: Application started.
+груд. 08, 2025 7:15:01 ПП controller.ShapeController run
+INFO: User selected option: 11
+груд. 08, 2025 7:15:01 ПП controller.ShapeController changeLanguage
+INFO: Language switched. English: false
+груд. 08, 2025 7:16:20 ПП Main main
+INFO: Application started.
+груд. 08, 2025 7:16:23 ПП controller.ShapeController run
+INFO: User selected option: 11
+груд. 08, 2025 7:16:23 ПП controller.ShapeController changeLanguage
+INFO: Language switched. English: false
+груд. 08, 2025 7:23:48 ПП Main main
+INFO: Application started.
+груд. 08, 2025 7:23:51 ПП controller.ShapeController run
+INFO: User selected option: 11
+груд. 08, 2025 7:23:51 ПП controller.ShapeController changeLanguage
+INFO: Language switched. English: false
+груд. 08, 2025 7:23:53 ПП controller.ShapeController run
+INFO: User selected option: 11
+груд. 08, 2025 7:23:53 ПП controller.ShapeController changeLanguage
+INFO: Language switched. English: true
+груд. 08, 2025 7:23:57 ПП controller.ShapeController run
+INFO: User selected option: 10
+груд. 08, 2025 7:23:57 ПП controller.ShapeController runAutoDemo
+INFO: Demo run started.
+груд. 08, 2025 7:23:58 ПП controller.ShapeController runAutoDemo
+INFO: Demo run finished.
+груд. 08, 2025 7:24:01 ПП controller.ShapeController run
+INFO: User selected option: 0
+груд. 08, 2025 7:24:01 ПП controller.ShapeController run
+INFO: User exited the application.
+груд. 08, 2025 7:24:01 ПП Main main
+INFO: Application finished.
